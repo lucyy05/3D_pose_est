@@ -1,0 +1,13 @@
+# Deep Learning Artifacts
+models/
+*.pth
+*.pt
+
+# Python Environment
+pytorch-venv/
+__pycache__/
+*.pyc
+*.log
+
+# Operating System Files
+.DS_Store
