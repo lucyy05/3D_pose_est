@@ -1,6 +1,6 @@
 # 🚀 3D Pose Estimation with Domain Adaptation
 This project implements a 3D pose estimation pipeline, designed for effective training on synthetic data and generalization to real-world images (Sim-to-Real).
-
+(For more details: https://www.notion.so/AIR-Lab-CV-2715bca3a2fb80bc9fa0fe026fc5f45d)
 ---
 
 ## 🛠️ Project Setup
